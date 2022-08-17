@@ -1,0 +1,11 @@
+  ----------------------------------------------------------------------------------------
+  method: "GET"
+  url: "/"
+  date: "Mon Aug 15 2022 18:47:28 GMT+0500 (Uzbekistan Standard Time)"
+  error: "ReferenceError: a is not defined"
+  ----------------------------------------------------------------------------------------
+  method: "GET"
+  url: "/"
+  date: "Mon Aug 15 2022 18:56:01 GMT+0500 (Uzbekistan Standard Time)"
+  error: "TypeError: Class constructor ApiError cannot be invoked without 'new'"
+  ----------------------------------------------------------------------------------------
